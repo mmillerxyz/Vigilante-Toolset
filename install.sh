@@ -16,7 +16,6 @@ apt install docker
 apt install docker.io
 gcc ddos.c -o ddos
 gcc cDDoS.c -o cDDoS
-chmod +x cDDoS.sh
 chmod +x proxy.sh
 chmod +x cproxy.sh
 chmod +x bruTOR.sh
