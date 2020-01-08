@@ -111,7 +111,7 @@ These should be the only things the installer downloads as Kali shoud have the r
  
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo.git
+git clone https://github.com/MBHudson/Vigilante-Toolset.git
 ```
 2. Give Permissions
 ```sh
