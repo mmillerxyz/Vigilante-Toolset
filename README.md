@@ -28,7 +28,6 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Updates](#Updates)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
 * [Prerequisites](#prerequisites)
@@ -53,6 +52,9 @@
 * Nmap
 * SQLmap
 * Nikito
+* Full Port Scan added 1/08/2020
+* Custom Port Scan  added 1/08/2020
+* Custom Proxy  added 1/08/2020
 * Uniscan
 * Automated Brute Force w/word lists
 * XerXes DDoS
