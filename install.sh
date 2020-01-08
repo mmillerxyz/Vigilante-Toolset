@@ -23,3 +23,4 @@ chmod +x ddosx4.sh
 chmod +x proxy.sh
 chmod +x sql.sh
 chmod +x Vigilante
+chmod +x ./Vigilante
