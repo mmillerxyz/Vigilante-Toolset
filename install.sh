@@ -1,4 +1,3 @@
-#!/bin/bash/
 apt-get update
 apt-get install terminator -y
 apt-get install nikto -y
