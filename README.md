@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    World's most effective TOR hacking toolkit desiged specificaly to combate illegal child exploitation websites
+    World's most effective TOR hacking toolkit designed specifically to comba illegal child exploitation websites
     <br />
     <a href="https://www.youtube.com/watch?v=-UL2hAGz8_0"><strong>Proof of Concept/Tutorial Videos »</strong></a>
     <br />
@@ -56,7 +56,7 @@
 * SQLmap
 * Nikito
 * Uniscan
-* Automated Brute Force w/wordlists
+* Automated Brute Force w/word lists
 * XerXes DDoS
 * DDoSx4
 * IPgeolocate
@@ -73,7 +73,7 @@
 * Metasploit
 * BeEF
 * Site Cloner
-* Phishing/Social Engineering Bundels
+* Phishing/Social Engineering Bundles 
 * Apache2/Struts Exploitation Automation
 * Bot Net Manager w/ready made UFONet bot networks
 * and more...
@@ -103,7 +103,7 @@
 * python3-pip
 * python3
 
-These should be the only things the installer downloads as Kali shoud have the rest.
+These should be the only things the installer downloads as Kali should have the rest.
 
 ### Installation
 
@@ -128,7 +128,7 @@ chmod +x ./install.sh
 ## Usage
 More to come later, sorry
 
-<u>For more help, please refer to our [Video Tutorials](https://www.youtube.com/watch?v=-UL2hAGz8_0) or refer to the manual included in Vigilante's root dirrectory.</u>
+<u>For more help, please refer to our [Video Tutorials](https://www.youtube.com/watch?v=-UL2hAGz8_0) or refer to the manual included in Vigilante's root dirrectory..</u>
 
 
 
@@ -169,7 +169,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Acknowledgments
 
 * CyberXCodder
 * [@xer0dayz](http://xerosecurity.com)
