@@ -143,7 +143,7 @@ then
 	echo -e "$COLOR1 + -- --=[Port 8000 closed... skipping.$RESET"
 else
 	echo -e "$COLOR2 + -- --=[Port 8000 opened... running tests...$RESET"
-	hydra   $USER_FILE -P $PASS_FILE $TARGET http-get -t $THREADS -f -q -e ns -m $HTTP_LOCATION -V -L
+	hydra  -L $USER_FILE -P $PASS_FILE $TARGET http-get -t $THREADS -f -q -e ns -m $HTTP_LOCATION -V
 fi
 
 if [ -z "$port_110" ]

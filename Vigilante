@@ -8,9 +8,9 @@ sleep 2
 {
 option=0
 until [ "$option" = "1" ]; do
-echo "  1.) Connect to TOR/Proxy                  t.) Target Notes"
-echo "  2.) Dissconnect TOR/PROXY"
-echo "  3.) Nmap"
+echo "  1.) Connect to TOR/Proxy                 4.) Full Port Scan                t.) Target Notes"
+echo "  2.) Dissconnect TOR/PROXY                5.) Custom Port Scan"
+echo "  3.) Nmap                                 6.) Custom Proxy"
 echo -e "                                                                           \e[41m b.) Main Menu" "\e[49m"
 echo -n "vigilante@torhunter:~#:"
 read option
@@ -19,7 +19,10 @@ case $option in
     1 ) terminator 2>/dev/null -e "/root/Vigilante-Toolset/proxy.sh" & press_enter ;;  
     2 ) service tor stop ; press_enter ;;
     3 ) nmap 127.0.0.1 -PN ; press_enter ;;
-    t ) terminator 2>/dev/null -e "nano /root/Vigilante-Toolset/targets.txt" & press_enter ;;
+    4 ) terminator 2>/dev/null -e "/root/Vigilante-Toolset/nmap.sh" & press_enter ;; 
+    5 ) terminator 2>/dev/null -e "/root/Vigilante-Toolset/cport.sh" & press_enter ;;
+    6 ) terminator 2>/dev/null -e "/root/Vigilante-Toolset/cproxy.sh" & press_enter ;;
+    t ) terminator 2>/dev/null -e "nano /root/Vigilante-Toolset/targets.txt" & press_enter ;;    
     b ) main_menu ;;
     * ) tput setf 4;echo "echo -n "vigilante@torhunter:~#:"";tput setf 4; 
 esac
