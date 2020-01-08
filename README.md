@@ -138,7 +138,7 @@ chmod +x ./install.sh
 
 <a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/mainsmall.png" width="350" height="150" align="middle"> </a>
 
-For each menu a corresponding number, from left to right, 1, 2, 3. You confirm your selection by the ENTER key. Typing, without quotes, "HELP" will always bring you back to the usage page. Type the letter "q" to quite from main menu.
+For each menu a corresponding number, from left to right, 1, 2, 3. You confirm your selection by the ENTER key. Typing, without quotes, "help" will always bring you back to the usage page. Type the letter "q" to quite from main menu.
 
 ### Menu "1"
 
