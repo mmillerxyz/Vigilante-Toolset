@@ -4,7 +4,7 @@
 ----
 <br />
 <p align="center">  
-<a href="https://www.youtube.com/watch?v=-UL2hAGz8_0"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/VigilanteVideoThumb.png" width="500" height="300" align="middle">
+<a href="https://youtu.be/aD8f5_Y3tsI"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/VigilanteVideoThumb.png" width="500" height="300" align="middle">
   </a>
 
   <p align="center">
