@@ -44,8 +44,6 @@
 
 ## About The Project
 
-<a href="https://www.youtube.com/watch?v=-UL2hAGz8_0"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/mainsmall.png" width="350" height="150" align="middle"> </a>
-
 ~#: Vigilante-Toolset is a project with the goal in stopping the spread of child exploitation through TOR by finding, disabling and reporting child exploitation websites. The Concept works by proxying TOR through a localhost and then using an arsenal of the very same tools you've come to love, along with some super effective modded and original tools, against TOR websites. Every tool is automated and geared towards ease of use along with the project's specific purpose in mind. All attacks can be deployed in 7 key strokes or less. Automation designed so that anyone novice to pro can volunteer and make a difference. Don't let this tool set's easy of use fool you though, as you'll see from our YouTube channel, Vigilante-Toolset takes out TOR sites in real world/in the wild situations with easy. 
 
 **Tools** **Include** <i>more coming soon</i>
@@ -135,6 +133,33 @@ chmod +x ./install.sh
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
+# Main Menu
+
+<a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/mainsmall.png" width="350" height="150" align="middle"> </a>
+
+For each menu a corresponding number, from left to right, 1, 2, 3. You confirm your selection by the ENTER key. Typing, without quotes, "HELP" will always bring you back to the usage page. Type the letter "q" to quite from main menu.
+
+# Menu "1"
+
+<a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/menu1.png" width="350" height="150" align="middle"> </a>
+
+Option "1" should be your first step, this connects us to TOR and sets up to proxy. A seperate terminal will open and prompt you to enter a URL. COPY and PASTE you TARGET. without the HTTP:// or / at the end, into the terminal and press ENTER.
+
+Press the letter "t" in any menu to access your TARGET notes. To save notes press CTRL+X (at the same time) followed by the letter "Y" and ENTER. Press the letter "b" in any menu to go back to the main menu.
+
+# Menu "2"
+
+<a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/menu2.png" width="350" height="150" align="middle"> </a>
+ 
+ Here we have many different tools most I'm sure you are familur with, everything is clearly labeled. For stragity and how to use these tool specificaly see [Manifesto](#Manifesto)
+ 
+ # Menu "3"
+ 
+ <a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/menu3.png" width="350" height="150" align="middle"> </a>
+ 
+ The hope here is that if you're able to get evidence of someone's IP, name or location that you would be able to send the proper authorities evidence you've collected.
+
 More to come later, sorry
 
 <u>For more help, please refer to our [Video Tutorials](https://www.youtube.com/watch?v=-UL2hAGz8_0) or refer to the manual included in Vigilante's root dirrectory..</u>
