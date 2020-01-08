@@ -43,7 +43,6 @@
 
 
 ## About The Project
-----
 
 <a href="https://www.youtube.com/watch?v=-UL2hAGz8_0"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/connect.png" width="350" height="150" align="middle"> </a>
 
