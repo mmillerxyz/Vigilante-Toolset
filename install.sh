@@ -27,4 +27,5 @@ chmod +x nmap.sh
 chmod +x proxy.sh
 chmod +x run.sh
 chmod +x sql.sh
+chmod +x Vigilante
 ./Vigilante
