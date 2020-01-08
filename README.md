@@ -101,6 +101,8 @@
 * TOR Browser
 * SoCat
 * python3-pip
+* Proxychains4
+* Docker
 * python3
 
 These should be the only things the installer downloads as Kali should have the rest.
