@@ -129,16 +129,21 @@ chmod +x ./install.sh
 ```sh
 ./Vigilante
 ```
-
-
-
-
-
 <!-- USAGE EXAMPLES -->
-<!-- USAGE EXAMPLES -->
+
 ## Usage
 
-# Main Menu
+### Run the Script
+
+Make sure you are in the Vigilant-Toolkit directory 
+```sh
+cd Vigilante-Toolset
+```
+Run Vigilante-Toolset
+```sh
+./Vigilante
+```
+
 ### Main Menu
 
 <a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/mainsmall.png" width="350" height="150" align="middle"> </a>
