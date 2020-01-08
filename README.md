@@ -171,7 +171,8 @@ Press the letter "t" in any menu to access your TARGET notes. To save notes pres
 
  <a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/menu3.png" width="350" height="150" align="middle"> </a>
 
-@@ -169,6 +169,8 @@ More to come later, sorry
+More to come later, sorry
+
 <!-- ROADMAP -->
 ## Manifesto
 
