@@ -22,7 +22,7 @@
   </p>
 </p>
 <p align="center">
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VigilanteToolkit%40gmail.com&currency_code=USD&source=url"><img border="0" alt="Donate" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/btn_donateCC_LG.gif" width="200" height="70" 
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=vigilantetoolset%40gmail.com&currency_code=USD&source=url"><img border="0" alt="Donate" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/btn_donateCC_LG.gif" width="200" height="70" 
 
 >> 
 ## Table of Contents
