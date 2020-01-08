@@ -169,9 +169,10 @@ Press the letter "t" in any menu to access your TARGET notes. To save notes pres
 
  ### Menu "3"
 
+<a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/menu3.png" width="350" height="150" align="middle"> </a>
+
 The hope is to gather info leading to the server a owner and reporting all evidence collected to the proper authorities in that person's jurisdiction though anonymous file sharing and e-mail.
 
- <a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/menu3.png" width="350" height="150" align="middle"> </a>
 
 More to come later, sorry
 
