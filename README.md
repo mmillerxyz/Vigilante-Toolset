@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    World's most effective TOR hacking toolkit designed specifically to comba illegal child exploitation websites
+    World's most effective TOR hacking toolkit designed specifically to combat illegal child exploitation websites
     <br />
     <a href="https://www.youtube.com/watch?v=-UL2hAGz8_0"><strong>Proof of Concept/Tutorial Videos »</strong></a>
     <br />
