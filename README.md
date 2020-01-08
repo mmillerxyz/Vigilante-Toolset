@@ -134,17 +134,28 @@ chmod +x ./install.sh
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+### Run the Script
+
+Make sure you are in the Vigilant-Toolkit directory 
+```sh
+cd Vigilante-Toolset
+```
+Run Vigilante-Toolset
+```sh
+./Vigilante
+```
+
 ### Main Menu
 
 <a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/mainsmall.png" width="350" height="150" align="middle"> </a>
 
-For each menu a corresponding number, from left to right, 1, 2, 3. You confirm your selection by the ENTER key. Typing, without quotes, "help" will always bring you back to the usage page. Type the letter "q" to quite from main menu.
+For each menu a corresponding number, from left to right, 1, 2, 3. You confirm your selection by the ENTER key. Typing, without quotes, "help" will always bring you back to the usage page. Type the letter "q" to quit from main menu.
 
 ### Menu "1"
 
 <a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/menu1.png" width="350" height="150" align="middle"> </a>
 
-Option "1" should be your first step, this connects us to TOR and sets up to proxy. A seperate terminal will open and prompt you to enter a URL. COPY and PASTE you TARGET. without the HTTP:// or / at the end, into the terminal and press ENTER.
+Option "1" should be your first step, this connects you to TOR and sets up the proxy. A separate terminal will open and prompt you to enter a URL. COPY and PASTE your TARGET PAGE URL. without the HTTP:// or / at the end, into the terminal and press ENTER.
 
 Press the letter "t" in any menu to access your TARGET notes. To save notes press CTRL+X (at the same time) followed by the letter "Y" and ENTER. Press the letter "b" in any menu to go back to the main menu.
 
@@ -152,7 +163,7 @@ Press the letter "t" in any menu to access your TARGET notes. To save notes pres
 
 <a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/menu2.png" width="350" height="150" align="middle"> </a>
  
- Here we have many different tools most I'm sure you are familur with, everything is clearly labeled. For stragity and how to use these tool specificaly see [Manifesto](#Manifesto)
+ Here we have many different tools most I'm sure you are familiar with, everything is clearly labeled. For stragity and how to use these tool specifically see [Manifesto](#Manifesto)
  
  ### Menu "3"
  
@@ -162,14 +173,14 @@ Press the letter "t" in any menu to access your TARGET notes. To save notes pres
 
 More to come later, sorry
 
-<u>For more help, please refer to our [Video Tutorials](https://www.youtube.com/watch?v=-UL2hAGz8_0) or refer to the manual included in Vigilante's root dirrectory..</u>
+<u>For more help, please refer to our [Video Tutorials](https://www.youtube.com/watch?v=-UL2hAGz8_0) or refer to the manual included in Vigilante's root directory..</u>
 
 
 
 <!-- ROADMAP -->
 ## Manifesto
 
-I have found that most of these types of sites are usually ran from an older Windows machine and often Raspberry Pi3. Minimal in power they are usually very easy to take down with DdoS attacks. I'm  working on the port scanner and crawler so for now everything is based off of what would normal be port 80. Menu 2 Option 4 finds admin logins and other things sometimes leading to the person's identity who owns the server. Brute forcing is always an option, Option 5 I believe, but I would suggest supplemental word lists. Sometime you can get lucky when searching through things found from the directory scan and happen upon a SQL server.
+I have found that most of these types of sites are usually ran from an older Windows machine and often Raspberry Pi3 and not often updated. Minimal in power they are usually very easy to take down with DdoS attacks. I'm  working on the port scanner and crawler but for now everything is based off of what would normal be port 80. Menu 2 Option 4 finds admin logins and other pages that sometimes lead to the identity of who owns the server. Brute forcing is always an option, Option 5 I believe, but I would suggest supplemental word lists. Sometime you can get lucky when searching through pages found from the directory scan and happen upon a SQL server. In such a case there are instructions within all terminal prompts guiding you as to what information is needed. 
 
 See the [Tutorial Video](https://www.youtube.com/watch?v=-UL2hAGz8_0) for features (and how to use them) More to come soon.
 
