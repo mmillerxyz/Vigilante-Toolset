@@ -211,7 +211,7 @@ To be honest I have no idea how this whole licensing part works. If there is any
 <!-- CONTACT -->
 ## Contact
 
-* [E-mail](VigilanteToolset@gmail.com) VgilanteToolset@gmail.com
+* [E-mail](VigilanteToolset@gmail.com) VigilanteToolset@gmail.com
 
 * [Facebook](Https://fb.me/VigilanteToolset) Https://fb.me/VigilanteToolset
 
