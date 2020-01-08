@@ -46,7 +46,7 @@
 
 <a href="https://www.youtube.com/watch?v=-UL2hAGz8_0"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/mainsmall.png" width="350" height="150" align="middle"> </a>
 
-~#: Vigilante-Toolset is a project with the goal in stopping the spread of child exploitation through TOR by finding, disabling and reporting child exploitation websites. The Concept works by proxying TOR through a localhost and then using an arsenal of the very same tools you've come to love, along with some super effective modded and original tools, against TOR websites. Every tool is automated and geared towards ease of use along with the project's specific purpose in mind. All attacks can be deployed in 7 key strokes or less. Automation designed so that anyone novice to pro can volunteer and make a difference. Don't let this tool set's easy of use fool you though, as you'll see from our YouTube channel, Vigilante-Toolset takes out TOR sites in real world/in the wild situations with easy. 
+~#: Vigilante-Toolset is a project with the goal in stopping the spread of child exploitation through TOR by finding, disabling and reporting child exploitation websites. The Concept works by proxying TOR through a localhost and then using an arsenal of the very same tools you've come to love, along with some super effective modded and original tools, against TOR websites. Every tool is automated and geared towards ease of use along with the project's specific purpose in mind. All attacks can be deployed in 7 key strokes or less. Automation designed so that anyone novice to pro can volunteer and make a difference. Don't let this tool set's easy of use fool you though, as you'll see from our YouTube channel, Vigilante-Toolset takes out TOR sites in real world situations with easy.  
 
 **Tools** **Include** <i>more coming soon</i>
 
@@ -180,6 +180,8 @@ See the [Tutorial Video](https://www.youtube.com/watch?v=-UL2hAGz8_0) for featur
 
 <!-- ROADMAP -->
 ## Manifesto
+
+I have found that most of these types of sites are usually ran from an older Windows machine and often Raspberry Pi3 and not often updated. Minimal in power they are usually very easy to take down with DdoS attacks. I'm  working on the port scanner and crawler but for now everything is based off of what would normaly be port 80. Menu 2 Option 4 finds admin logins and other pages that sometimes lead to the identity of who owns the server. Brute forcing is always an option, Option 5 I believe, but I would suggest supplemental word lists. Sometime you can get lucky when searching through pages found from the directory scan and happen upon a SQL server. In such a case there are instructions within all terminal prompts guiding you as to what information is needed. 
 
 See the [Tutorial Video](https://www.youtube.com/watch?v=-UL2hAGz8_0) for features (and how to use them) More to come soon.
 
