@@ -113,14 +113,24 @@ If you are installing from .Zip file rename "Vigilante-Toolset-Master" to just "
 ```sh
 git clone https://github.com/MBHudson/Vigilante-Toolset.git
 ```
-2. Give Permissions
+2. Change Directory
+```sh
+cd Vigilante-Toolset
+```
+3. Give Permissions
 ```sh
 chmod +x ./install.sh
 ```
-3. Run Vigilante-Toolkit
+4. Run Installer
 ```sh
-./Vigilante.sh
+./install.sh
 ```
+4. Run Vigilante-Toolset
+```sh
+./Vigilante
+```
+
+
 
 
 
