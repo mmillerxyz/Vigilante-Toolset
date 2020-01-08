@@ -151,15 +151,15 @@ Run Vigilante-Toolset
 
 <a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/mainsmall.png" width="350" height="150" align="middle"> </a>
 
-For each menu a corresponding number, from left to right, 1, 2, 3. You confirm your selection by the ENTER key. Typing, without quotes, "help" will always bring you back to the usage page. Type the letter "q" to quite from main menu.
+For each menu a corresponding number, from left to right, 1, 2, 3. You confirm your selection by the ENTER key. Typing, without quotes, "help" will always bring you back to the usage page. Type the letter "q" to quit from main menu.
 
 ### Menu "1"
 
 <a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/menu1.png" width="350" height="150" align="middle"> </a>
 
-Option "1" should be your first step, this connects us to TOR and sets up to proxy. A seperate terminal will open and prompt you to enter a URL. COPY and PASTE you TARGET. without the HTTP:// or / at the end, into the terminal and press ENTER.
+Option "1" should be your first step, this connects to TOR and sets up the proxy. A seperate terminal will open and prompt you to enter a URL. COPY and PASTE your TARGET URL. without the HTTP:// or / at the end, into the terminal and press ENTER.
 
-Press the letter "t" in any menu to access your TARGET notes. To save notes press CTRL+X (at the same time) followed by the letter "Y" and ENTER. Press the letter "b" in any menu to go back to the main menu.
+Press the letter "t" in any menu to access your TARGET notes. To save notes press CTRL+X (at the same time) followed by the letter "Y" and then ENTER. Press the letter "b" in any menu to go back to the main menu.
 
 ### Menu "2"
 
@@ -171,7 +171,7 @@ Press the letter "t" in any menu to access your TARGET notes. To save notes pres
 
 <a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/menu3.png" width="350" height="150" align="middle"> </a>
 
-The hope is to gather info leading to the server a owner and reporting all evidence collected to the proper authorities in that person's jurisdiction though anonymous file sharing and e-mail.
+The hope is to gather info leading to the identity of the server's owner; reporting all evidence collected to the proper authorities in that person's jurisdiction thorugh anonymous file sharing/e-mail.
 
 
 More to come later, sorry
