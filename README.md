@@ -154,7 +154,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-See `LICENSE` for more information.
+To be honest I have no idea how this whole licensing part works. If there is any issue please [E-mail](VgilanteToolset@gmail.com) me and I'm sure we can figure something out. Thank you
 
 
 
