@@ -174,7 +174,7 @@ To be honest I have no idea how this whole licensing part works. If there is any
 * CyberXCodder
 * [@xer0dayz](http://xerosecurity.com)
 * [Miroslav Stampar](http://sqlmap.org/)
-* <i>and many more to be added later. Until then creatits may be found spread out within the source code.</i>
+* <i>and many more to be added later. Until then credits may be found spread out within the source code.</i>
 
 
 
