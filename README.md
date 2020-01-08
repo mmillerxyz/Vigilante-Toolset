@@ -108,6 +108,7 @@ These should be the only things the installer downloads as Kali should have the 
 ### Installation
 
 ----
+If you are installing from .Zip file rename "Vigilante-Toolset-Master" to just "Vigilante-Toolset" and skip to step two
  
 1. Clone the repo
 ```sh
