@@ -33,7 +33,7 @@
 * [Prerequisites](#prerequisites)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Manifesto](#Manifesto)
+* [Manifesto](#manifesto)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -172,11 +172,6 @@ Press the letter "t" in any menu to access your TARGET notes. To save notes pres
  <a href="https://github.com/MBHudson/Vigilante-Toolset/blob/master/README.md#usage"><img border="0" alt="DEMO/TUTORIAL" src="https://github.com/MBHudson/Vigilante-Toolset/blob/master/menu3.png" width="350" height="150" align="middle"> </a>
 
 More to come later, sorry
-
-<!-- ROADMAP -->
-## Manifesto
-
-I have found that most of these types of sites are usually ran from an older Windows machine and often Raspberry Pi3. Minimal in power they are usually very easy to take down with DdoS attacks. I'm  working on the port scanner and crawler so for now everything is based off of what would normal be port 80. Menu 2 Option 4 finds admin logins and other things sometimes leading to the person's identity who owns the server. Brute forcing is always an option, Option 5 I believe, but I would suggest supplemental word lists. Sometime you can get lucky when searching through things found from the directory scan and happen upon a SQL server.
 
 See the [Tutorial Video](https://www.youtube.com/watch?v=-UL2hAGz8_0) for features (and how to use them) More to come soon.
 
